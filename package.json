@@ -1,0 +1,14 @@
+{
+  "name": "proxy-app",
+  "version": "1.0.0",
+  "description": "A web proxy application",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy",
+    "web",
+    "nodejs"
+  ]
+}
+
